@@ -12,6 +12,8 @@ public class ClienteTest {
         System.out.println(TipoCliente.PESSOA_JURIDICA.getId());
         System.out.println(TipoCliente.PESSOA_FISICA.getId());
         System.out.println(cliente);
+        
+        System.out.println(TipoCliente.values());
 
     }
 }

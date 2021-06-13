@@ -1,0 +1,5 @@
+Enuns podem ser criados dentro da própria classe
+Enuns podem ter métodos abstratos para ter alguma função própria e podem se chamados pelo próprio enum,
+Exemplo, carregar dados de um banco de dados!
+
+

@@ -1,0 +1,5 @@
+É possível fazer um import para classes de métodos estático. Ex:
+
+A classe Math só tem métodos estaticos, então se faz o import da classe Math e não precisa escrever a classe, só se escreve o método.
+
+Aula 59 da Loiane.

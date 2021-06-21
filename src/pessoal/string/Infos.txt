@@ -1,0 +1,4 @@
+StringBuffer é sincronizado Para ambiente multithread portanto é um pouco mais lento.
+
+Se não for multithread usar o StringBuilder
+
